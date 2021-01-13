@@ -1,5 +1,0 @@
-# Group 1
-User-agent: *
-Allow: /
-
-Sitemap: https://modron.pw/sitemap.xml
